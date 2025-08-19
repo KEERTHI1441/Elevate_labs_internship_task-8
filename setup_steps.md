@@ -12,7 +12,7 @@
 1. **Update system packages**
    ```bash
    sudo apt update && sudo apt upgrade -y
-````
+   ````
 
 2. **Add ProtonVPN repository**
    A repo entry is created at:
@@ -67,4 +67,4 @@
 * Use **Disconnect** option in the client when finished.
 
 ```
-
+```
