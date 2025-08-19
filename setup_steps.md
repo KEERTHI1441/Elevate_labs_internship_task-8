@@ -1,9 +1,12 @@
+````markdown
 # VPN Setup Guide (ProtonVPN on Kali Linux)
 
 ## 🔧 Prerequisites
 - Kali Linux system
 - Internet connection
 - ProtonVPN account (Free Tier or Paid)
+
+---
 
 ## 📥 Installation Steps
 
@@ -46,6 +49,8 @@
    * Choose the nearest server or any preferred location.
    * Wait for the VPN connection to be established.
 
+---
+
 ## ✅ Verification Steps
 
 1. Check your IP before VPN:
@@ -61,3 +66,6 @@
 
 * Free tier has limited server locations.
 * Use **Disconnect** option in the client when finished.
+
+```
+```
