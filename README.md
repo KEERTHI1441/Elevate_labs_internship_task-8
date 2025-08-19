@@ -1,4 +1,4 @@
-# VPN Setup & Privacy Protection (Task 8)
+# VPN Setup & Privacy Protection
 
 ## 📌 Objective
 The goal of this task was to understand the role of **VPNs** (Virtual Private Networks) in protecting privacy and enabling secure communication.

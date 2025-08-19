@@ -5,8 +5,6 @@
 - Internet connection
 - ProtonVPN account (Free Tier or Paid)
 
----
-
 ## 📥 Installation Steps
 
 1. **Update system packages**
@@ -47,8 +45,6 @@
 
    * Choose the nearest server or any preferred location.
    * Wait for the VPN connection to be established.
-
----
 
 ## ✅ Verification Steps
 
